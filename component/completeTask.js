@@ -13,4 +13,4 @@ const completeTask = (event) =>  {
     element.classList.toggle("far");
 }
 
-export default checkComplete;
+export default checkComplete;  
